@@ -1,0 +1,2 @@
+module lec_1 {
+}
