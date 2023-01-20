@@ -71,7 +71,7 @@ public class Binary_tree {
 		System.out.println(node.val);
 	}
 	public void inorder() {
-	96	inorder(root);
+		inorder(root);
 		System.out.println();
 	}
 	private void inorder(Node node) {
